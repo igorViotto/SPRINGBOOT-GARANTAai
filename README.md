@@ -1,4 +1,3 @@
-# SPRINGBOOT-GARANTAai
 # 📄 Projeto - Plataforma de Gestão de Garantias
 
 Bem-vindo(a) ao repositório da **Plataforma de Gestão de Garantias**!  
