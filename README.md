@@ -18,8 +18,6 @@ Além disso, é possível:
 
 - 🏠 **Cadastrar uma garantia** (automóvel ou imóvel) no nome de um cliente existente.
 
-> **Obs.:** Cada cliente pode possuir **apenas uma** garantia cadastrada.
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
